@@ -26,4 +26,9 @@
 	<script type="text/javascript" src="js/custom.js"/></script>
 </head>
   <body>
+		<div class="nav-banner py-2">
+			<div class="container text-center">
+				<img id="logo-banner" src="img/clooui.gif">
+			</div>
+		</div>
     <div class="container" id="fullpage">

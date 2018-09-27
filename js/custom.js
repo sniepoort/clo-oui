@@ -27,7 +27,21 @@ $(document).ready(function(){
     typeSpeed: 20,
     contentType: 'html',
     onComplete: function(){
-      initSmoothScroll()      
+      initSmoothScroll()
     }
   });
+
+  $(window).on('scroll', function(){
+		window.requestAnimationFrame(activateNavBanner);
+	})
+
+  function activateNavBanner() {
+    console.log(window.innerHeight)
+    console.log($(window).scrollTop())
+    if ($(window).scrollTop() > window.innerHeight) {
+      $('.nav-banner').addClass('nav-banner--active')
+    } else {
+      $('.nav-banner').removeClass('nav-banner--active')
+    }
+  }
 })

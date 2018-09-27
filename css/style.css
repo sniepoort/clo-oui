@@ -21,6 +21,23 @@ a:hover {
 	font-weight: normal;
 }
 
+.nav-banner {
+	position: fixed;
+	z-index: 2;
+	width: 100%;
+	top: 0;
+	background-color: hsla(0, 54%, 97%, 1);
+	box-shadow: 0 0.01rem 0.1rem rgba(17,17,17,.05);
+	opacity: 0;
+	transition: opacity 0.5s cubic-bezier(.7,.22,.31,.84);
+}
+.nav-banner--active {
+	opacity: 1;
+}
+#logo-banner {
+	width: 80px;
+}
+
 .fullscreen, .section {
 	min-height: 100vh;
 }
