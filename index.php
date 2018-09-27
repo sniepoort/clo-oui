@@ -27,13 +27,13 @@
 				</div>
 				<div class="col-md-6">
 					<p class="lead">These two words put together might not mean anything to you, but to me, they are the result of 7 years of studies and hard work.
-					I started as a journalist and worked for a newspaper, a radio and a web-TV channel.
-					But after all that great experience, I realized <span class="highlight">I did not want to be restricted to one media</span> when there were so many mediums to experiment with, especially online.
-					So I went on and studied <a href="https://global.kea.dk/partner-institutions/multimedia-design-communication" target="_blank">Multimedia Design and Communication in Copenhagen</a>.
+					I started as a journalist and worked for a newspaper, a radio station and a TV channel.
+					Although they were rewarding experiences, I realized <span class="highlight">I did not want to be restricted to one media</span> when there were so many mediums to experiment with, especially online.
+					So I went on and worked for a web-TV channel and decided study <a href="https://global.kea.dk/partner-institutions/multimedia-design-communication" target="_blank">Multimedia Design and Communication</a> in Copenhagen, Denmark.
 					There, I learnt how to make websites and the rudiments of business and entrepreneurship.
-					Then, I got the chance to take a master degree in <a href"https://www.filmschule.de/menschen/alumni/ma-digital-narratives/" target="_blank">Digital Narratives</a>, in Cologne.
-					As part of my master project, I worked on a podcast series called <a href="https://www.thegappodcast.com/" target="_blank">The Gap</a>.
-					But beware! This does not make me a podcaster. It just means that podcast was the best medium for this story.
+					Then, I got the chance to take a master's degree in <a href="https://www.filmschule.de/menschen/alumni/ma-digital-narratives/" target="_blank">Digital Narratives</a>, in Cologne, Germany.
+					As part of my master's project, I worked on a podcast series called <a href="https://www.thegappodcast.com/" target="_blank">The Gap</a>.
+					For the first time, it gave me hands-on experience in bridging traditional journalism with digitality. Which is now the driving factor of my work.
 					</p>
 				</div>
 			</div>
@@ -47,10 +47,10 @@
 			<h1 class="display-4 mb-4">Achievement</h1>
 			<div class="row justify-content-center">
 				<div class="col-md-6">
-					<h2 class="h3"><a href="https://www.thegappodcast.com/" target="_blank">The Gap</a> is a podcast series I created from scratch, hosted and produced.</h2>
+					<h2 class="h3"><a href="https://www.thegappodcast.com/" target="_blank">The Gap</a> is a podcast series I created, hosted and produced.</h2>
 				</div>
 				<div class="col-md-6">
-					<p class="lead">This project started with an alarming observation: <span class="highlight">all of my female friends</span> (including me) had experienced some sort of gender based violence (from sexual harassment, at work, in the street, in public transportation, to sexual abuse). Not only this observation was depressing, it was also infuriating.<br>
+					<p class="lead">This project started with an alarming observation: <span class="highlight">all of my female friends</span> (including me) had experienced some sort of gender based violence (from sexual harassment at work, in the street, in public transportation, to sexual abuse). Not only was this observation depressing, it was also infuriating.<br>
 					I knew I had to do something about it. I wanted to <span class="highlight">end rape culture.</span><br></p>
 					<p class="lead description">I wanted to have conversations with men about toxic masculinities. I wanted to reflect on my own femininity and its toxicity.
 					I wanted to know what kind of man would make the world a better place. I wanted to explore gender theories as well as binary concepts like male and female energies.
@@ -96,8 +96,8 @@
 						</li>
 						<li class="topic">
 							<span><i class="fal fa-plus-circle mr-1"></i>Ethics and technology </span>
-							<p>While I believe that digital wellness is needed, I am also interested in tackling the cause of the problem: the <span class="highlight">lack of ethic in tech</span>. I was particularly inspired by the former tech insiders from the Silicon Valley who created <a href="http://humanetech.com/" target="_blank">The Center for Human Technology</a> and this documentary <a href="https://ethicsfordesign.com/" target="_blank">Ethics for Design</a>
-							I haven’t decided how I will tackle the last two points but I am open to suggestions or collaboration offers.</p>
+							<p>While I believe that digital wellness is needed, I am also interested in tackling the cause of the problem: the <span class="highlight">lack of ethic in tech</span>. I was particularly inspired by the former tech insiders from the Silicon Valley who created <a href="http://humanetech.com/" target="_blank">The Center for Human Technology</a> and the documentary <a href="https://ethicsfordesign.com/" target="_blank">Ethics for Design</a>.
+							I haven’t decided how I will tackle the last two points but I am open to suggestions and collaboration.</p>
 						</li>
 					</ul>
 				</div>
@@ -118,19 +118,19 @@
 					<ul class="list-unstyled mt-4 mt-md-0 lead">
 						<li class="topic">
 							<span><i class="fal fa-plus-circle mr-1"></i> Podcast</span>
-							<p>As a podcast consumer, I love to be completely immersed in a podcast’s story world. And as a podcast producer, I enjoy the freedom to create at any length, in my own time, with little means. For my latest project <a href="https://www.thegappodcast.com/">The Gap</a>, I got to experiment with binaural audio which I find fascinating yet still rarely used in podcast. As part of my master degree, I wrote a thesis on podcast called: “Podcast: a new medium? <span class="highlight">How does podcast honor, rival and revise radio?”.</span></p>
+							<p>As a podcast consumer, I love to be completely immersed in a podcast’s story world. And as a podcast producer, I enjoy the freedom to create content at any length, in my own time, with little means. For my latest project <a href="https://www.thegappodcast.com/" target="_blank">The Gap</a>, I got to experiment with binaural audio which I find fascinating yet still rarely used in podcast. As part of my master's degree, I wrote a thesis on podcast called: “Podcast: a new medium? <span class="highlight">How does podcast honor, rival and revise radio?”.</span></p>
 						</li>
 						<li class="topic">
 							<span><i class="fal fa-plus-circle mr-1"></i> Radio </span>
-							<p>My interest for podcast goes back to my first crush: radio. I specialized in radio while studying journalism and worked as a radio journalist in an English speaking radio channel in France. There, I learnt the rudiment of sound editing and most importantly how to work with my <span class="highlight">voice.</span> </p>
+							<p>My interest for podcast goes back to my first crush: radio. I specialized in radio while studying journalism and worked as a radio journalist in an English speaking radio channel in France. There, I learned the rudiments of sound editing and most importantly how to work with my <span class="highlight">voice.</span> </p>
 						</li>
 						<li class="topic">
 							<span><i class="fal fa-plus-circle mr-1"></i> Video </span>
-							<p>This is the medium I have the most experience with. During my career, I got the chance of shooting and producing a <span class="highlight">documentary</span> for a <a href="http://nefej.org.np/ focusing on sustainability">Nepalese television channel</a>. I also worked for a <a href="https://www.youtube.com/channel/UC6ZHdUnWaQDf-qwog0jsivA">web-TV channel</a> in Copenhagen about social innovation. And finally, I worked as a <span class="highlight">videographer</span> assistant for <a href="http://copenhagers.com/">Copenhagers</a>. On the side, I still enjoy making videos to promote my friends’ work. <a href="https://vimeo.com/240852373">Here</a> is my latest one. It is a portrait of my friend Léa Silva who is a jeweler.</p>
+							<p>This is the medium I have the most experience with. During my career, I got the chance of shooting and producing a <span class="highlight">documentary</span> for a <a href="http://nefej.org.np/ focusing on sustainability" target="_blank">Nepalese television channel</a>. I also worked for a <a href="https://www.youtube.com/channel/UC6ZHdUnWaQDf-qwog0jsivA" target="_blank">web-TV channel</a> in Copenhagen about social innovation. And finally, I worked as a <span class="highlight">videographer</span> assistant for <a href="http://copenhagers.com/">Copenhagers</a>. On the side, I still enjoy making videos to promote my friends’ work. <a href="https://vimeo.com/240852373">My latest video</a> is a portrait of my friend Léa Silva who is a jeweler.</p>
 							</li>
 						<li class="topic">
 							<span><i class="fal fa-plus-circle mr-1"></i> Writing </span>
-							<p>I started my journalist career working for a <span class="highlight">Swiss newspaper</span> called <a href="https://lecourrier.ch/auteur/chloe-trieu/">Le Courrier</a>. There, I wrote articles, reportages, interviews and portraits under the segments “Solidarity”, “Culture,” and “Local News”. </p>
+							<p>I started my journalist career working for a <span class="highlight">Swiss newspaper</span> called <a href="https://lecourrier.ch/auteur/chloe-trieu/" target="_blank">Le Courrier</a>. There, I wrote articles, reportages, interviews and portraits under the segments “Solidarity”, “Culture,” and “Local News”. </p>
 							</li>
 					</ul>
 				</div>
@@ -145,13 +145,13 @@
 			<h1 class="display-4 mb-4">Future experience</h1>
 			<div class="row justify-content-center">
 				<div class="col-md-6">
-					<h2 class="h3">And here are the mediums/format/tools I would like to experiment with:</h2>
+					<h2 class="h3">Here are the mediums/formats/tools I would like to experiment with:</h2>
 				</div>
 				<div class="col-md-6">
 					<ul class="list-unstyled mt-4 mt-md-0 lead">
 						<li class="topic">
 							<span><i class="fal fa-plus-circle mr-1"></i>Audio guides</span>
-							<p>After working with podcast and binaural audio, I would like to experiment with audio-guides in museums. Audio guides are too often boring and I would love to <span class="highlight">make them exciting</span> and play around with this format, by adding binaural audio.
+							<p>After working with podcast and binaural audio, I would like to experiment with audio-guides in museums. Audio guides are too often boring and I would love to <span class="highlight">make them exciting</span> and play around with this format by adding binaural audio.
 							</p>
 						</li>
 						<li class="topic">
@@ -161,7 +161,7 @@
 						</li>
 						<li class="topic">
 							<span><i class="fal fa-plus-circle mr-1"></i>Workshops</span>
-							<p>Probably the least digital of all, I would nonetheless like to design and <span class="highlight">animate workshops.</span> I always get challenged and inspired by the conversations, the debates and the ideas that come up during workshops. And that is why I would like to see how I could use the tools I learnt in Design Thinking to create workshops on the different topics which I care about.
+							<p>Probably the least digital of all, I would nonetheless like to design and <span class="highlight">animate workshops.</span> I always get challenged and inspired by the conversations, the debates and the ideas that come up during workshops. And that is why I would like to see how I could use the tools I learned in Design Thinking theory to create workshops on the different topics which I care about.
 							</p>
 						</li>
 					</ul>
